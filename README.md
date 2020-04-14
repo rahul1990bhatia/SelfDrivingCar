@@ -2,6 +2,8 @@
 
 This repository is for self driving car code. 
 
+![](ezgif.com-gif-maker.gif)
+
 Reference is taken from following:
 1. Udemy course on self driving car
 2. Udacity simulator
